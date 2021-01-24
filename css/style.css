@@ -1,0 +1,51 @@
+body {
+	font-family: Helvetica;
+	font-size: 32px;
+	line-height: 1.25;
+	
+	background-color: #ffffff;
+	color: #000000;
+}
+
+header, section {
+  padding: 30px;
+  
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+}
+
+section.about {
+  background-color: #e4d3d2;
+}
+
+section.about p {
+  max-width: 30em;
+}
+
+section.timeline1{
+  background-color: #d0bfbe;
+}
+
+section.timeline2 {
+  background-color: #c5bbbf;
+}
+
+section.timeline3 {
+  background-color: #bdc9c7;
+}
+
+section.timeline {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section.photo img {
+  max-width: 1000px;
+}
+
+body {
+    line-height: 1;
+  }
