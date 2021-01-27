@@ -1,0 +1,93 @@
+/* Louvette Banner Bold
+
+font-family: louvette-banner, serif;
+
+font-weight: 600;
+
+font-style: normal; */
+
+
+/* Niagara Regular
+
+font-family: niagara, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+Niagara Engraved Regular
+
+font-family: niagara-engraved, sans-serif;
+
+font-weight: 400;
+
+font-style: normal; */
+
+
+/* font-family: futura-pt, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+font-family: futura-pt, sans-serif;
+
+font-weight: 300;
+
+font-style: normal; */
+
+
+Skolar Latin Regular
+
+font-family: skolar-latin, serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+
+Skolar Latin Bold
+
+font-family: skolar-latin, serif;
+
+font-weight: 700;
+
+font-style: normal;
+
+
+Skolar Latin Italic
+
+font-family: skolar-latin, serif;
+
+font-weight: 400;
+
+font-style: italic;
+
+
+Skolar Latin Bold Italic
+
+font-family: skolar-latin, serif;
+
+font-weight: 700;
+
+font-style: italic;
+
+
+Skolar Latin Light
+
+font-family: skolar-latin, serif;
+
+font-weight: 300;
+
+font-style: normal;
+
+
+Skolar Latin Light Italic
+
+font-family: skolar-latin, serif;
+
+font-weight: 300;
+
+font-style: italic;

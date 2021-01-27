@@ -64,7 +64,7 @@
     font-style: normal;
     color: #cf1f44;
     font-size: 17em;
-    margin-left: 40%;
+    margin-left: 45%;
     width: 600;
     -webkit-text-stroke-width: 1.3px;
     -webkit-text-stroke-color: white;
@@ -134,10 +134,31 @@ section.timeline1{
 
 section.timeline2 {
   background-color: #cf1f44;
+  display: inline-block;
 }
 
 section.timeline3 {
   background-color: #897468;
+}
+
+
+section.timeline4 {
+  background-color:#b0f2ff;
+}
+
+
+section.timeline5 {
+  background-color:#ae9eff;
+}
+
+
+section.timeline6 {
+  background-color:#e2dd44;
+}
+
+section.timeline7 {
+  background-color:#000000c7;
+  opacity: 98%;
 }
 
 section.timeline {
@@ -182,7 +203,183 @@ mark{
 
 #switchhandslayup {
   min-width: 500px;
-  margin-left: 3em;
-  border-radius: 30px;
+  margin-left: 5em;
+  border-radius: 60px;
   border: 5px solid #cec8b0 ;
+}
+
+.years {
+  font-family: niagara, serif;
+  font-weight: 400;
+  font-style: italic;
+  color:white;
+  font-size: 5em;
+  line-height: 0;
+  margin-right: 5px;
+
+}
+
+#mark1992{
+  text-transform: capitalize;
+  font-style: italic;
+  /* background-color: #cf1f44; */
+  color: #f5ed00;
+}
+
+#mark1993{
+  text-transform: capitalize;
+  font-style: italic;
+  /* background-color: #cf1f44; */
+  color: #75f6ff;
+}
+
+#mark1996{
+  text-transform: capitalize;
+  font-style: italic;
+  /* background-color: #cf1f44; */
+  color: #ff91ba;
+}
+
+#mark1997{
+  text-transform: capitalize;
+  font-style: italic;
+  /* background-color: #cf1f44; */
+  color:#ffed91;
+}
+
+#mark1998{
+  text-transform: capitalize;
+  font-style: italic;
+  /* background-color: #cf1f44; */
+  color:#8f5cff;
+}
+
+#theshrug {
+  display: inline-block;
+  width: 500px;
+  height: 350px;
+  filter: brightness(1.45);
+  float: left;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  border-radius: 80px;
+  border: 5px solid #ff9c78 ;
+  
+}
+
+#finals {
+  font-family: niagara, serif;
+  font-weight: 400;
+  font-style: italic;
+  color:white;
+  font-size: 2em;
+  line-height: 0;
+  
+  /* font-stretch: ultra-condensed; */
+}
+
+#barkley {
+  display: inline-block;
+  width: 600px;
+  filter: brightness(1.25);
+  /* float: left; */
+  margin-bottom: 2em;
+  margin-left: 2em;
+  border-radius: 50px;
+  border: 5px solid #c9fff6 ;
+  
+}
+
+#fathersday {
+  display: inline-block;
+  width: 600px;
+  height: 400px;
+  filter: brightness(1.15);
+  /* float: left; */
+  margin-bottom: 2em;
+  margin-right: 2em;
+  border-radius: 50px;
+  border: 5px solid #c9fff6 ;
+  
+}
+
+#flugame {
+  display: inline-block;
+  width: 600px;
+  
+  /* filter: brightness(1.15); */
+  /* float: left; */
+  margin-bottom: 2em;
+  margin-left: 3em;
+  border-radius: 50px;
+  border: 5px solid #c9fff6 ;
+  
+}
+
+
+#theshot {
+  display: inline-block;
+  width: 700px;
+  
+  /* filter: brightness(1.15); */
+  /* float: left; */
+  margin-bottom: 2em;
+  margin-right: 3em;
+  border-radius: 50px;
+  border: 5px solid #ac94e3 ;
+  
+}
+
+#LastDance {
+  
+  color: #8f5cff;
+  text-transform: capitalize;
+  text-decoration: underline red;
+  text-underline-offset: 4px;
+}
+
+#mjtrophy {
+  display: inline-block;
+  width: 600px;
+  
+  /* filter: brightness(1.15); */
+  /* float: left; */
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 20px;
+  border: 3px solid #ffffff
+   ;
+   object-fit: contain;
+  
+}
+
+#firstwin {
+  display: inline-block;
+  width: 600px;
+  
+  /* filter: brightness(1.15); */
+  /* float: left; */
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 20px;
+  border: 3px solid #ffffff
+   ;
+   object-fit: contain;
+  
+}
+
+#freethrowdunk {
+  display: inline-block;
+  width: 500px;
+  height: 800;
+  
+  /* filter: brightness(1.15); */
+  /* float: left; */
+  margin-left: 1em;
+  margin-right: 1em;
+  border-radius: 20px;
+  border: 3px solid #ffffff
+   ;
+   object-fit: cover;
+  
 }
